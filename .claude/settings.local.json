@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d/GymPilot)",
+      "Bash(node -e \"console.log\\('tailwindcss', require\\('tailwindcss/package.json'\\).version\\)\")",
+      "Bash(node -e \"console.log\\('postcss', require\\('postcss/package.json'\\).version\\)\")",
+      "Bash(node -e \"console.log\\('autoprefixer', require\\('autoprefixer/package.json'\\).version\\)\")",
+      "Bash(ls -1 postcss.config.*)"
+    ]
+  }
+}
