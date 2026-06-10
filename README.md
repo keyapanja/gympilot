@@ -207,3 +207,5 @@ update profiles set role = 'super_admin' where id =
 ---
 
 © GymPilot. Phase 1.
+#   g y m p i l o t  
+ 
